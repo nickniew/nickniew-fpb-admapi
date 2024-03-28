@@ -119,6 +119,46 @@
   margin: 0 auto 20px;
 }
 
+.menu-container {
+  text-align: center;
+}
+
+.button-list {
+  margin-top: 20px;
+}
+
+.menu-button {
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #FFA500;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.add-button {
+  margin-top: 20px;
+}
+
+.add-button input {
+  padding: 8px;
+  margin-right: 10px;
+  border: 1px solid #777; 
+  border-radius: 5px;
+  background-color: #333;
+  color: #FFA500;
+}
+
+.add-button button {
+  padding: 10px 20px;
+  background-color: #000;
+  color: #FFA500;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
